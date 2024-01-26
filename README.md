@@ -33,7 +33,7 @@ _Host:_ [ Vercel](https://vercel.com//)✔
 
 ## How can you see this project?
 
-[ ` Click here for live preview`]()
+[ ` Click here for live preview`](https://finance-app-gold.vercel.app/)
 
 ## Author
 
