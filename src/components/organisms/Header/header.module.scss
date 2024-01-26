@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgba(104, 67, 236, 0.50);
+    border: 3px solid #6843EC;
+    border-radius: 20px;
+    height: 100px;
+
+    &__title {
+        padding-left: 20px;
+        font-size: 32px;
+    }
+
+    &__dot {
+        color: #D2FF3A;
+    }
+}
+
+.logout{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-right: 10px;
+    gap: 25px;
+    font-size: 20px;
+}

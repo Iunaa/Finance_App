@@ -1,0 +1,31 @@
+.card_stock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 3px solid #6843EC;
+    background: rgba(104, 67, 236, 0.10);
+    min-width: 200px;
+    padding: 10px;
+    gap: 10px;
+    min-height: 200px;
+}
+.card_default{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    gap: 10px;
+    border: 3px solid #6843EC;
+    min-width: 220px;
+    min-height: 150px;
+}
+
+.h2_red{
+    color: 'red';
+}
+.h2_green{
+    color: '#B3D73B';
+}

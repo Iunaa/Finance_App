@@ -1,0 +1,14 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    gap: 64px;
+
+    &__formButtons {
+        justify-content: center;
+        flex-direction: row;
+        gap: 95px;
+    }
+}
